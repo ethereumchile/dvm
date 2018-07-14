@@ -1,5 +1,10 @@
 pragma solidity ^0.4.20;
 
+/*
+Autor  : Javier Guajardo J.
+Twitter: @EthereumChile
+Website: https://ethereumchile.cl
+*/
 contract Stack {
 
     address     public  owner;
